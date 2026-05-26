@@ -10,4 +10,4 @@ import lombok.Setter;
 public class GeneralResponse {
     Object data;
     String message;
-}   
+}
